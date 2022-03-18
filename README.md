@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hppppppf&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hppppppf&show_icons=true&hide=prs,issues&include_all_commits=true)
 
 
 <!--
